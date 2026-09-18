@@ -1,0 +1,17 @@
+# Maxwell simulation artifacts
+*.aedtresults/
+*.aedt.lock
+*.semaphore
+
+# Office temp/lock files
+~$*
+
+# Visio source files
+*.vsdx
+
+# Generated distribution files (regenerate with md2html.py)
+*.zip
+*.html
+
+# Python
+__pycache__/
