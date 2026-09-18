@@ -14,5 +14,6 @@ Simulation Cases/
     ├── Tutorial_LLC_transformer.md   # 教程正文
     ├── imgs/                  # 教程插图
     └── simulations/
-        └── Maxwell/           # Maxwell 工程文件（.aedt）
+        ├── Maxwell/           # Maxwell 工程文件（.aedt）
+        └── PSIM/              # PSIM 电路仿真与激励波形文件
 ```
