@@ -1,7 +1,7 @@
 # 一、设计需求案例
 设计案例LLC变换器拓扑结构：
 
-[<img src="imgs/img.png" width="480">](imgs/img.png)
+[<img src="imgs/img.png" width="400">](imgs/img.png)
 变换器参数：
 
 | Vin | 534V  | Po | 500W   |
@@ -11,7 +11,7 @@
 
 # 二、设计变压器
 变压器具体设计过程略过，最终的结构如图所示：
-[<img src="imgs/img_2.png" width="600">](imgs/img_2.png)
+[<img src="imgs/img_2.png" width="400">](imgs/img_2.png)
 
 每个磁芯柱上有两匝原边绕组(红色)串联；两个副边绕组(蓝色)S1、S2，分别串联2匝。最终整个变压器的匝数比是12:2:2。
 
@@ -33,7 +33,7 @@
 | 对电感的影响        | 电感不随激励大小变化 | 电感会受到激励大小的影响               |
 | 对开气隙高磁导率电感的影响 |电感不随激励大小变化| 磁芯未饱和时，电感几乎不受到激励大小影响，如下图所示 |
 
-[<img src="imgs/img_4.png" width="560">](imgs/img_4.png)
+[<img src="imgs/img_4.png" width="400">](imgs/img_4.png)
 
 
 
